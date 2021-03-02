@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6a167704-e867-48c2-9ae6-1b9b04551a38" name="unix" url="http://95.216.151.55">
+        <fileTransfer host="95.216.151.55" port="22" rootFolder="/home/kseniya.k/web/kk.unixback.dev3.digital-spectr.ru/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
